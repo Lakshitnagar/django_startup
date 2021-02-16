@@ -3,7 +3,7 @@
 *.py[co]
 /*.pyc
 .tox/
-mysite/__pycache__/*
+**/__pycache__/*
 manage.py
 MANIFEST
 dist/
